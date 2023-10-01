@@ -11,5 +11,6 @@ main(int argc, char *argv[]){
   ticks=atoi(argv[1]);
   fprintf(2,"Funguje to!\n");
   sleep(ticks);
+
   exit(0);
 }
